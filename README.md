@@ -1,4 +1,4 @@
-# Conway-s-Game-of-Life
+# Conway's Game of Life:
 The code is written with assembly MASM 8086 and able to run on DOSBox.
 
 The game begins with the player creating an initial configuration by selecting the squares to paint.
